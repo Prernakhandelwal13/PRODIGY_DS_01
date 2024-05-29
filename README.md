@@ -1,0 +1,1 @@
+Here the dataset to complete the first task is of titanic from kaggle(train.csv). I have created a histogram of passengers age and a bar chart for passenger class using R programming language in RStudio.
